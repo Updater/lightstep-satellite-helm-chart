@@ -2,69 +2,14 @@ apiVersion: v1
 entries:
   lightstep:
   - apiVersion: v1
-    appVersion: 2020-09-24_05-22-16Z
-    created: "2020-11-23T18:38:16.6468077Z"
+    appVersion: 2021-01-26_23-02-36Z
+    created: "2021-03-17T20:19:25.362913225Z"
     description: Lightstep satellite to collect telemetry data.
-    digest: 3a435208aa516604e2724dc61bdc17d4344f00f289929bdf57238316ee896194
+    digest: 10037dc267e9de8d202e6532a6327656081d6f016f5cf6175d31ad96b216e81d
     home: https://lightstep.com/
     icon: https://go.lightstep.com/rs/260-KGM-472/images/logo-medium-color-400x100.jpg
     name: lightstep
     urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1.1.4/lightstep-1.1.4.tgz
-    version: 1.1.4
-  - apiVersion: v1
-    appVersion: latest
-    created: "2020-11-20T17:25:07.761961443Z"
-    description: Lightsep satellite to collect telemetry data.
-    digest: 206f7ee0a6e42bfdd10b49175f9c5f43c02263ab9b70964829e72bb290fdad15
-    home: https://lightstep.com/
-    icon: https://go.lightstep.com/rs/260-KGM-472/images/logo-medium-color-400x100.jpg
-    name: lightstep
-    urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1.1.3/lightstep-1.1.3.tgz
-    version: 1.1.3
-  - apiVersion: v1
-    appVersion: latest
-    created: "2020-11-19T22:52:54.264775784Z"
-    description: Lightsep satellite to collect telemetry data.
-    digest: 626ef56f92fd51a45ce4b91f29472747d6dd9a95cdd107ffc1a0afb3fbe92036
-    home: https://lightstep.com/
-    icon: https://go.lightstep.com/rs/260-KGM-472/images/logo-medium-color-400x100.jpg
-    name: lightstep
-    urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1.1.2/lightstep-1.1.2.tgz
-    version: 1.1.2
-  - apiVersion: v1
-    appVersion: latest
-    created: "2020-10-07T21:32:33.789243332Z"
-    description: Lightsep satellite to collect telemetry data.
-    digest: fcfc032733913d9aae7c4b135f70663fd6e2ae2de08245edd00ac0f1880ec52e
-    home: https://lightstep.com/
-    icon: https://go.lightstep.com/rs/260-KGM-472/images/logo-medium-color-400x100.jpg
-    name: lightstep
-    urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1.0.2/lightstep-1.0.2.tgz
-    version: 1.0.2
-  - apiVersion: v1
-    appVersion: latest
-    created: "2020-08-24T17:56:54.128901697Z"
-    description: Lightsep satellite to collect telemetry data.
-    digest: 056ff37d9837db0c88277fd6f8ced27e02ca4967c55ce01921939bb72ab06581
-    home: https://lightstep.com/
-    icon: https://go.lightstep.com/rs/260-KGM-472/images/logo-medium-color-400x100.jpg
-    name: lightstep
-    urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1.0.1/lightstep-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v1
-    appVersion: latest
-    created: "2020-08-21T00:00:03.497004322Z"
-    description: Lightsep satellite to collect telemetry data.
-    digest: e40d54e407ab0fcc5e2ab682f1055fc45273122253c73e2c15c9f75bb3ec2934
-    home: https://lightstep.com/
-    icon: file://../lightstep-logo.png
-    name: lightstep
-    urls:
-    - https://github.com/lightstep/lightstep-satellite-helm-chart/releases/download/lightstep-1/lightstep-1.tgz
-    version: "1"
-generated: "2020-08-21T00:00:03.034703185Z"
+    - https://github.com/Updater/lightstep-satellite-helm-chart/releases/download/lightstep-1.2.2/lightstep-1.2.2.tgz
+    version: 1.2.2
+generated: "2021-03-17T20:19:25.211551963Z"
